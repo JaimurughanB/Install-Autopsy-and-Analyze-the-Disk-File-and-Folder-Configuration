@@ -15,15 +15,18 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 ## PROGRAM:
 ## Install Autopsy for Windows (GUI-based Forensic Tool)
 ## 🔗 Download Autopsy: Click Here
+
 1.Download the Autopsy Windows Installer from the official website.
 2.Extract the ZIP file and open the bin folder.
 3.Run autopsy.exe and set up a new forensic case for analysis.
+
 ## Install Autopsy for Linux
 1.Open Terminal.
 2.Update your package list: sudo apt update
 3.Install Autopsy: sudo apt install autopsy
 4.Launch Autopsy using: autopsy
 5.Open http://localhost:9999/autopsy in a web browser.
+
 ## Create & Configure a Virtual Hard Disk (VHD) in Windows
 1.Press Win + X, Select Disk Management.
 2.Click Action > Create VHD.
